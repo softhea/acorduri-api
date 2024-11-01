@@ -1,0 +1,8 @@
+{
+    "message": "Name already exists",
+    "errors": {
+        "name": [
+            "Name already exists"
+        ]
+    }
+}

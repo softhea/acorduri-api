@@ -1,0 +1,8 @@
+{
+    "message": "Name is required",
+    "errors": {
+        "name": [
+            "Name is required"
+        ]
+    }
+}

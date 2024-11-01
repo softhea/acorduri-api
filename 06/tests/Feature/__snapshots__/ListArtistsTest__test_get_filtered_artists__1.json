@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "user_id": 1,
+            "name": "Rolling Stones",
+            "no_of_tabs": 8,
+            "no_of_views": 253
+        }
+    ]
+}
